@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=eWbGV3LLwVQ&t=812s
+
+topics included :
+Global ExceptionHandler for Rest APIs
